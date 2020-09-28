@@ -5,6 +5,7 @@
     "require": {
         "components/jquery": "^3.5"
     },
+	"minimum-stability": "dev",
     "authors": [
         {
             "name": "José Proença",
