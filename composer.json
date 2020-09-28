@@ -1,0 +1,14 @@
+{
+    "name": "osande/ihavecookies",
+    "description": "Port I Have Cookies to Composer",
+    "type": "library",
+    "require": {
+        "components/jquery": "^3.5"
+    },
+    "authors": [
+        {
+            "name": "José Proença",
+            "email": "jose.proenca@owesome.pt"
+        }
+    ]
+}
