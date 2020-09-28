@@ -5,7 +5,7 @@ A lightweight jQuery plugin that displays a cookie &#x1F36A; consent message as 
 The visitor __must__ click the accept button within the popup for the cookie to be set thus granting their consent (GDPR).
 ## Composer Install
 ```
-$ composer global require hirak/prestissimo
+$ composer global require osande/ihavecookies:dev-master
 ```
 
 ## Usage
