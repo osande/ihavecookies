@@ -3,6 +3,10 @@
 A lightweight jQuery plugin that displays a cookie &#x1F36A; consent message as required by EU regulation. The plugin displays a message on the user's first visit to your website and, by default, again 30 days after their last visit.
 
 The visitor __must__ click the accept button within the popup for the cookie to be set thus granting their consent (GDPR).
+## Composer Install
+```
+$ composer global require hirak/prestissimo
+```
 
 ## Usage
 
